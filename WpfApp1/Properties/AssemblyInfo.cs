@@ -10,9 +10,9 @@ using System.Windows;
 [assembly: AssemblyTitle("WpfApp1")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("ФГБОУВО "СПбГАСУ"")]
+[assembly: AssemblyCompany("ФГБОУВО \"СПбГАСУ\"")]
 [assembly: AssemblyProduct("WpfApp1")]
-[assembly: AssemblyCopyright("Copyright © ФГБОУВО "СПбГАСУ" 2018")]
+[assembly: AssemblyCopyright("Copyright © ФГБОУВО \"СПбГАСУ\" 2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
